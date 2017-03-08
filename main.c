@@ -60,7 +60,7 @@ int main()
 
     printf("Nowy napis: %s \n", zlaczenie);
 
-    free (zlaczenie); // zwolnienie pamieci bufora
+    //free (zlaczenie); // zwolnienie pamieci bufora
 
     return 0;
 }
